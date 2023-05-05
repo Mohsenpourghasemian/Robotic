@@ -12,7 +12,7 @@ In each directory, for example "Centralized", there is a "mainRobotic_DDPG.py" f
 -Simply run "mainRobot_DDPG.py".
 -Multiple .txt files are created (such as reward robots and reward access point). Then, you can simply plot them using excel, matplotlib, or matlab.
 
-#Please note
+# Please note
 I also put Decentralized MADDPG for the interested individuals. It is not in the paper. :D
 Feel free to go to "robotic_env" and change the reward function and see exciting performance.
 
