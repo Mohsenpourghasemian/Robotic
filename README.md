@@ -19,4 +19,6 @@ I also put Decentralized MADDPG for the interested individuals. It is not in the
 Feel free to go to "robotic_env" and change the reward function and see exciting performance.
 
 I would be happy to report any bug for this code.
-[Reward_smooth_all.pdf](https://github.com/Mohsenpourghasemian/Robotic/files/11407888/Reward_smooth_all.pdf)
+# One result
+
+https://github.com/Mohsenpourghasemian/Robotic/blob/main/Reward_smooth_all.pdf
