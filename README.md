@@ -21,4 +21,4 @@ Feel free to go to "robotic_env" and change the reward function and see exciting
 I would be happy to report any bug for this code.
 # One result
 
-[embed]https://github.com/Mohsenpourghasemian/Robotic/blob/main/Reward_smooth_all.pdf
+https://github.com/Mohsenpourghasemian/Robotic/blob/main/Reward_smooth_all.pdf
